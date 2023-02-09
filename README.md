@@ -1,11 +1,11 @@
-<h1 align="center">Welcome, I'm Alex Arteaga</h1>
+<h1 align="center">Welcome, I'm Alex Arteaga :construction_worker::hammer:</h1>
 <h3 align="center">A full-stack Blockchain dev in Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-alra-arteaga&label=Profile%20views&color=0e75b6&style=flat" alt="alex-alra-arteaga" /> </p>
 
-- 🌱 I’m currently learning **Foundry, Typescript, The Graph & Ceramic Network**
+- Currently learning **Foundry, Typescript, The Graph & Ceramic Network**
 
-- 👯 I’m looking to build on **a hardcore engineering business**
+- I’m looking to build on **a hardcore engineering business**
 
 <p align="left">
 </p>
