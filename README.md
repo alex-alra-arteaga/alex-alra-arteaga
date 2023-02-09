@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Foundry, Typescript, The Graph & Ceramic Network**
 
-- 👯 I’m looking to build on **a hardcore engineering startup**
+- 👯 I’m looking to build on **a hardcore engineering business**
 
 <p align="left">
 </p>
