@@ -1,10 +1,10 @@
 <h1 align="center">Welcome, I'm Alex Arteaga :construction_worker::hammer:</h1>
-<h3 align="center">A full-stack Blockchain dev in Spain</h3>
+<h3 align="center">Loading Spanish full-stack Blockchain dev...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-alra-arteaga&label=Profile%20views&color=0e75b6&style=flat" alt="alex-alra-arteaga" /> </p>
 
-- Currently learning **Foundry, Typescript, The Graph & Ceramic Network**
-
+- Currently learning and interested in **Foundry, Typescript, The Graph & Ceramic Network**
+- I'm aware of the tonnes of techs I have to learn to be proficient, but that only motivates me more
 - I’m looking to build on **a hardcore engineering business**
 
 <p align="left">
