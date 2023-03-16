@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-alra-arteaga&label=Profile%20views&color=0e75b6&style=flat" alt="alex-alra-arteaga" /> </p>
 
 - Currently learning and interested in **Foundry, Typescript, The Graph & Ceramic Network**
-- I'm aware of the tonnes of techs I have to learn to be proficient, but that only motivates me more
+- I'm aware of the tons of techs I have to learn to be proficient, but that only motivates me more
 - I’m looking to build on **a hardcore engineering business**
 
 <p align="left">
