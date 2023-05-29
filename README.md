@@ -113,4 +113,4 @@
 <img src="https://avatars.githubusercontent.com/u/4226899?s=280&v=4" alt="linux" width="40" height="40"/>
 </a>
 <br></br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alex-alra-arteaga&show_icons=true&theme=dark&locale=en" alt="alex-alra-arteaga" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-alra-arteaga&theme=dark" alt="alex-alra-arteaga" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alex-alra-arteaga&theme=dark" alt="alex-alra-arteaga" /></p>
