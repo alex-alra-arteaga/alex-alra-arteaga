@@ -19,6 +19,8 @@
     - EdTech startup business plan with validating mvp
 - **April 2023**: Context DAO and Arweave hackathon winners:
     - Certificates issuing dApp with Arweave storage and Warp smart contracts
+- **July 2023**: ETH Barcelona - Best DeFi and DApp Project + Best Crypto Social Project
+    - Time tokenization infrastructure and protocol layer, a dApp built on top named Chronos + Toucan Discord Bot with tracking capabilities by events.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
