@@ -21,7 +21,7 @@
     - Certificates issuing dApp with Arweave storage and Warp smart contracts
 - **July 2023**: ETH Barcelona - Best DeFi and DApp Project + Best Crypto Social Project
     - Time tokenization infrastructure and protocol layer, a dApp built on top named Chronos + Toucan Discord Bot with tracking capabilities by events.
-- **October 2023**: Block&Change 42Madrid - Best DeFi Project and 2 additional NEAR prizes, built 2 projects with 2 frieds
+- **October 2023**: Block&Change 42Madrid - Best DeFi Project and 2 additional NEAR prizes, built 2 projects with 2 friends
     - 1st project: Settlement layer for telecom companies to tokenize mobile data
     - 2nd project: Novel subscription model utilizing dutch auctions for price discovery. Subscriptions are tokenized, allowing users to sell their event participations.
 
